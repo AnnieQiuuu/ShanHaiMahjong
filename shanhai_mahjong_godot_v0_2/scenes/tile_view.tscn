@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dk2bvd5vk6pti"]
+
+[ext_resource type="Script" uid="uid://dl4fmc62bmf2j" path="res://scripts/views/tile_view.gd" id="1"]
+
+[node name="MahjongTile" type="Node2D"]
+script = ExtResource("1")

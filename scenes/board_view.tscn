@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://buimaa8kkani6"]
+
+[ext_resource type="Script" uid="uid://cxqrjk2glfjj3" path="res://scripts/views/board_view.gd" id="1"]
+
+[node name="MahjongBoard" type="Node2D"]
+script = ExtResource("1")
+layer_offset = Vector2(-12, -20)

@@ -1,0 +1,187 @@
+{
+  "001": {
+    "name": "蕃大王",
+    "element": "fire",
+    "texture": "res://assets/pets/no_001_icon.png"
+  },
+  "002": {
+    "name": "瞌睡寓",
+    "element": "wind",
+    "texture": "res://assets/pets/no_002_icon.png"
+  },
+  "006": {
+    "name": "布谷",
+    "element": "wind",
+    "texture": "res://assets/pets/no_006_icon.png"
+  },
+  "008": {
+    "name": "湖灵",
+    "element": "wind",
+    "texture": "res://assets/pets/no_008_icon.png"
+  },
+  "010": {
+    "name": "凤凰",
+    "element": "fire",
+    "texture": "res://assets/pets/no_010_icon.png"
+  },
+  "011": {
+    "name": "大鹏",
+    "element": "wind",
+    "texture": "res://assets/pets/no_011_icon.png"
+  },
+  "013": {
+    "name": "玄羽",
+    "element": "fire",
+    "texture": "res://assets/pets/no_013_icon.png"
+  },
+  "018": {
+    "name": "阿赤",
+    "element": "wind",
+    "texture": "res://assets/pets/no_018_icon.png"
+  },
+  "019": {
+    "name": "小滑头",
+    "element": "wind",
+    "texture": "res://assets/pets/no_019_icon.png"
+  },
+  "021": {
+    "name": "翼鬼鱼",
+    "element": "wind",
+    "texture": "res://assets/pets/no_021_icon.png"
+  },
+  "023": {
+    "name": "温泉鱼",
+    "element": "fire",
+    "texture": "res://assets/pets/no_023_icon.png"
+  },
+  "028": {
+    "name": "龟仙人",
+    "element": "fire",
+    "texture": "res://assets/pets/no_028_icon.png"
+  },
+  "029": {
+    "name": "深海龙王",
+    "element": "water",
+    "texture": "res://assets/pets/no_029_icon.png"
+  },
+  "030": {
+    "name": "鲲鹏",
+    "element": "water",
+    "texture": "res://assets/pets/no_030_icon.png"
+  },
+  "032": {
+    "name": "青龙",
+    "element": "wind",
+    "texture": "res://assets/pets/no_032_icon.png"
+  },
+  "034": {
+    "name": "朱雀",
+    "element": "fire",
+    "texture": "res://assets/pets/no_034_icon.png"
+  },
+  "035": {
+    "name": "玄武",
+    "element": "wind",
+    "texture": "res://assets/pets/no_035_icon.png"
+  },
+  "038": {
+    "name": "麒麟",
+    "element": "wind",
+    "texture": "res://assets/pets/no_038_icon.png"
+  },
+  "039": {
+    "name": "九尾狐",
+    "element": "fire",
+    "texture": "res://assets/pets/no_039_icon.png"
+  },
+  "040": {
+    "name": "刑斩",
+    "element": "wind",
+    "texture": "res://assets/pets/no_040_icon.png"
+  },
+  "043": {
+    "name": "肥遗",
+    "element": "fire",
+    "texture": "res://assets/pets/no_043_icon.png"
+  },
+  "046": {
+    "name": "潜龙",
+    "element": "water",
+    "texture": "res://assets/pets/no_046_icon.png"
+  },
+  "050": {
+    "name": "奇奇蛇",
+    "element": "lightning",
+    "texture": "res://assets/pets/no_050_icon.png"
+  },
+  "051": {
+    "name": "烛龙",
+    "element": "fire",
+    "texture": "res://assets/pets/no_051_icon.png"
+  },
+  "056": {
+    "name": "山魈",
+    "element": "wind",
+    "texture": "res://assets/pets/no_056_icon.png"
+  },
+  "058": {
+    "name": "大力闾",
+    "element": "fire",
+    "texture": "res://assets/pets/no_058_icon.png"
+  },
+  "060": {
+    "name": "胖虎",
+    "element": "fire",
+    "texture": "res://assets/pets/no_060_icon.png"
+  },
+  "061": {
+    "name": "墨驹",
+    "element": "wind",
+    "texture": "res://assets/pets/no_061_icon.png"
+  },
+  "062": {
+    "name": "穷奇",
+    "element": "fire",
+    "texture": "res://assets/pets/no_062_icon.png"
+  },
+  "064": {
+    "name": "焰星",
+    "element": "fire",
+    "texture": "res://assets/pets/no_064_icon.png"
+  },
+  "065": {
+    "name": "瞳",
+    "element": "wind",
+    "texture": "res://assets/pets/no_065_icon.png"
+  },
+  "068": {
+    "name": "玄冥",
+    "element": "fire",
+    "texture": "res://assets/pets/no_068_icon.png"
+  },
+  "076": {
+    "name": "花角鹿",
+    "element": "wind",
+    "texture": "res://assets/pets/no_076_icon.png"
+  },
+  "077": {
+    "name": "柠檬骆",
+    "element": "wind",
+    "texture": "res://assets/pets/no_077_icon.png"
+  },
+  "078": {
+    "name": "大耳仔",
+    "element": "wind",
+    "texture": "res://assets/pets/no_078_icon.png"
+  },
+  "086": {
+    "name": "独角马",
+    "element": "wind",
+    "texture": "res://assets/pets/no_086_icon.png"
+  },
+  "earth_placeholder": {
+    "name": "土灵（暂用）",
+    "element": "earth",
+    "texture": ""
+  }
+}
